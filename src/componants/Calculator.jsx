@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import FaAcquisitionsIncorporated from 'react-icons/fa'
 export default function Calcultor(){
     const [calc , setCalc] =useState("");
     const opt = ['+' , '/' , '*'];
