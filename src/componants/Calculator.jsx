@@ -20,7 +20,6 @@ export default function Calcultor(){
     return(
         <div className="calculator">
             <div className="display">
-                <FaAcquisitionsIncorporated />
                 <span>{calc || 0}</span>
             </div>
             <div className="digit">
